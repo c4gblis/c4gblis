@@ -1,0 +1,21 @@
+USE blis_revamp;
+
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1', location='GT', admin_user_id=53, id_mode=1 WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;
+UPDATE lab_config SET name='Testlab1' WHERE lab_config_id=127;
+UPDATE lab_config SET location='GT' WHERE lab_config_id=127;

@@ -1,0 +1,7 @@
+[Fri Jan 11 18:22:45 2008] [notice] Apache/2.2.6 (Win32) configured -- resuming normal operations
+[Fri Jan 11 18:22:45 2008] [notice] Server built: Sep  5 2007 08:58:56
+[Fri Jan 11 18:22:45 2008] [notice] Parent: Created child process 2800
+[Fri Jan 11 18:22:45 2008] [notice] Child 2800: Child process is running
+[Fri Jan 11 18:22:45 2008] [notice] Child 2800: Acquired the start mutex.
+[Fri Jan 11 18:22:45 2008] [notice] Child 2800: Starting 250 worker threads.
+[Fri Jan 11 18:22:45 2008] [notice] Child 2800: Starting thread to listen on port 80.

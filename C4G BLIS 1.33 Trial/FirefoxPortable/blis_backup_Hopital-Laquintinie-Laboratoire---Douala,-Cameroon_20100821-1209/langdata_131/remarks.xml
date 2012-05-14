@@ -1,0 +1,809 @@
+<?xml version="1.0"?>
+<measures version="0.8.5">
+	
+	<measure id="3" descr="HIV Rapid">
+		<range>
+			<key>N&#xE9;gatif</key>
+			<value/>
+		</range>
+		<range>
+			<key>Positif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="4" descr="CD4">
+		<range>
+			<key>0:3000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="5" descr="CD4%">
+		<range>
+			<key>0:90</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="7" descr="FBS">
+		<range>
+			<key>60:110</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="8" descr="Prot&#xE9;ines Totales">
+		<range>
+			<key>65:80</key>
+			<value/>
+		</range>
+	</measure>
+	
+	
+	<measure id="11" descr="Phosphorus">
+		<range>
+			<key>25:42</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="12" descr="Mg++">
+		<range>
+			<key>18:25</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="14" descr="Globulin">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="15" descr="Albumin">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="17" descr="ALKP">
+		<range>
+			<key>98:279</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="18" descr="TBILI">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="19" descr="BUN">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="74" descr="Direct Coombs Test (DCT)">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="21" descr="NA">
+		<range>
+			<key>135:155</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="22" descr="K">
+		<range>
+			<key>3.4:5.5</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="24" descr="BICAR">
+		<range>
+			<key>0:100</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="26" descr="TRIG">
+		<range>
+			<key>0.5:1.5</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="27" descr="HDL-CHOL (Homme)">
+		<range>
+			<key>0.3:0.6</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="28" descr="LDL-CHOL">
+		<range>
+			<key>0:1.5</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="29" descr="GLUC">
+		<range>
+			<key>0.70:1.10</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="31" descr="LACT">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	
+	
+	
+	<measure id="35" descr="HCT">
+		<range>
+			<key>5:75</key>
+			<value/>
+		</range>
+	</measure>
+	
+	
+	
+	
+	<measure id="40" descr="PCR (HIV DNA)">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="41" descr="VL (HIV RNA)">
+		<range>
+			<key>400:1000000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="42" descr="HIV EIA">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="43" descr="WB (Western Blot)">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="44" descr="RPR">
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="45" descr="Ag Hbs">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="46" descr="HGB Electro">
+		<range>
+			<key>AA</key>
+			<value/>
+		</range>
+		<range>
+			<key>AF</key>
+			<value/>
+		</range>
+		<range>
+			<key>AS</key>
+			<value/>
+		</range>
+		<range>
+			<key>SS</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="47" descr="ESR (Sed rate)">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="48" descr="Sickling RBC">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="49" descr="CT (Clotting Time)">
+		<range>
+			<key>0:100</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="50" descr="Gamma GT">
+		<range>
+			<key>6:50</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="51" descr="URINE COLOUR">
+		<range>
+			<key>Straw</key>
+			<value/>
+		</range>
+		<range>
+			<key>Pale Yellow</key>
+			<value/>
+		</range>
+		<range>
+			<key>Deep Yellow</key>
+			<value/>
+		</range>
+		<range>
+			<key>Amber</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="52" descr="URINE TURBIDITY">
+		<range>
+			<key>Clear</key>
+			<value/>
+		</range>
+		<range>
+			<key>Cloudy</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="107" descr="TS">
+		<range>
+			<key>3:5</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="54" descr="Stool Consistency">
+		<range>
+			<key>Formed(solid)</key>
+			<value/>
+		</range>
+		<range>
+			<key>Semi-formed(not solid)</key>
+			<value/>
+		</range>
+		<range>
+			<key>Watery</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="55" descr="Stool Occult BI">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="56" descr="HCV">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="57" descr="VDRL">
+		<range>
+			<key>Positif</key>
+			<value/>
+		</range>
+		<range>
+			<key>N&#xE9;gatif</key>
+			<value/>
+		</range>
+		<range>
+			<key>Non r&#xE9;actif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="58" descr="Rheumatoid Factor">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="59" descr="CSF Glucose">
+		<range>
+			<key>0:100</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="60" descr="CSF Protein">
+		<range>
+			<key>0:10000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="61" descr="CSF Chloride">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="62" descr="Pregnancy">
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="63" descr="Progesterone">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="64" descr=" Groupe sanguin">
+		<range>
+			<key>A</key>
+			<value/>
+		</range>
+		<range>
+			<key>B</key>
+			<value/>
+		</range>
+		<range>
+			<key>AB</key>
+			<value/>
+		</range>
+		<range>
+			<key>O</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="65" descr="Rh&#xE9;sus">
+		<range>
+			<key>Positif</key>
+			<value/>
+		</range>
+		<range>
+			<key>N&#xE9;gatif</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="67" descr="Sperm Count">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="68" descr="TPHA">
+		<range>
+			<key>Positif</key>
+			<value/>
+		</range>
+		<range>
+			<key>N&#xE9;gatif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="69" descr="Toxoplasma">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="71" descr="PSA">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="72" descr="Zn Stain">
+		<range>
+			<key>AAFB seen</key>
+			<value/>
+		</range>
+		<range>
+			<key>AAFB not seen</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="73" descr="Bleeding Time">
+		<range>
+			<key>0:100</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="75" descr="Prolactin">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="76" descr="Ferritin">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="77" descr="Testosterone">
+		<range>
+			<key>0:1000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="88" descr="Blood Sugar">
+		<range>
+			<key>3.6:12</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="87" descr="TB Smear">
+		<range>
+			<key>NR</key>
+			<value/>
+		</range>
+		<range>
+			<key>1+</key>
+			<value/>
+		</range>
+		<range>
+			<key>2+</key>
+			<value/>
+		</range>
+		<range>
+			<key>3+</key>
+			<value/>
+		</range>
+		<range>
+			<key>4+</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="85" descr="m2">
+		<range>
+			<key>P</key>
+			<value/>
+		</range>
+		<range>
+			<key>N</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="84" descr="m1">
+		<range>
+			<key>12:30</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="89" descr="AFB">
+		<range>
+			<key>N&#xE9;gatif</key>
+			<value/>
+		</range>
+		<range>
+			<key>Positif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="90" descr="T4">
+		<range>
+			<key>350:1610</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="91" descr="T8">
+		<range>
+			<key>130:1118</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="92" descr="T3">
+		<range>
+			<key>190:1955</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="93" descr="T4/T8">
+		<range>
+			<key>:</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="94" descr="indicateur">
+		<range>
+			<key>positif</key>
+			<value/>
+		</range>
+		<range>
+			<key>negatif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="95" descr="Indicator">
+		<range>
+			<key>YES</key>
+			<value/>
+		</range>
+		<range>
+			<key>NO</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="96" descr="Widal et Felix">
+		<range>
+			<key>Positif</key>
+			<value/>
+		</range>
+		<range>
+			<key>N&#xE9;gatif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="97" descr="UREE/UREMIE">
+		<range>
+			<key>0.1:0.5</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="98" descr="Coprologie/Selle/KOAP">
+		<range>
+			<key>R&#xE9;actif</key>
+			<value/>
+		</range>
+		<range>
+			<key>Non R&#xE9;actif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="99" descr="WIDAL et FELIX">
+	</measure>
+	<measure id="100" descr="AO">
+	</measure>
+	<measure id="101" descr="AH">
+	</measure>
+	<measure id="102" descr="BO">
+	</measure>
+	<measure id="103" descr="BH">
+	</measure>
+	<measure id="104" descr="CO">
+	</measure>
+	<measure id="105" descr="TO">
+	</measure>
+	<measure id="106" descr="TH">
+	</measure>
+	<measure id="108" descr="TC=">
+		<range>
+			<key>7:12</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="109" descr="1&#xE8;re  Heure">
+		<range>
+			<key>7:12</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="110" descr="2&#xE8; Heure">
+		<range>
+			<key>0:20</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="111" descr="Premi&#xE8;re Heure:">
+		<range>
+			<key>2:5</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="112" descr="Deusi&#xE8;me Heure">
+		<range>
+			<key>0:20</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="113" descr="Beta HCG Quantitative">
+		<range>
+			<key>N&#xE9;gatif</key>
+			<value/>
+		</range>
+		<range>
+			<key>Positif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="114" descr="COMBS INDIRECT">
+		<range>
+			<key>Positif</key>
+			<value/>
+		</range>
+		<range>
+			<key>N&#xE9;gatif</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="115" descr="Ac Anti HCV">
+		<range>
+			<key>0</key>
+			<value/>
+		</range>
+		<range>
+			<key>000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="116" descr="Aspect du LCR">
+		<range>
+			<key>Clair</key>
+			<value/>
+		</range>
+		<range>
+			<key> Eau de roche_H&#xE9;morragique_Purulent_Trouble</key>
+			<value/>
+		</range>
+		<range>
+			<key> eau de riz_Xanthe Chronique_Non sp&#xE9;cifi&#xE9;</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="117" descr="CHIMIE">
+		<range>
+			<key>0</key>
+			<value/>
+		</range>
+		<range>
+			<key>00</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="118" descr="Coloration Gram">
+		<range>
+			<key>0:000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="119" descr="Culture bact&#xE9;riologique">
+		<range>
+			<key>0:000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="120" descr="Culture Mycologique">
+		<range>
+			<key>0:000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="121" descr="Antig&#xE8;nes solubles">
+		<range>
+			<key>0:000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="122" descr="PSA">
+		<range>
+			<key>0:4.0</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="123" descr="Couleur">
+	</measure>
+	<measure id="124" descr="Aspect">
+	</measure>
+	<measure id="125" descr="Cytol Leucocytaire:">
+		<range>
+			<key>0:000</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="126" descr="Aspect">
+	</measure>
+	<measure id="127" descr="Couleur">
+	</measure>
+	<measure id="128" descr="Aspect">
+	</measure>
+	<measure id="129" descr="Glyco HB (HBA1C)">
+		<range>
+			<key>0:7</key>
+			<value/>
+		</range>
+	</measure>
+	
+	<measure id="131" descr="HDL CHOL ( Femme)">
+		<range>
+			<key>0.4:0.7</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="132" descr="LDH">
+		<range>
+			<key>200:400</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="133" descr="Prot&#xE9;ines Urinaires">
+		<range>
+			<key>0:0.15</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="134" descr="Bilirubine Total">
+		<range>
+			<key>0:100</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="135" descr="TQ">
+		<range>
+			<key>10:14</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="136" descr="TP">
+		<range>
+			<key>70:100</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="137" descr="INR">
+		<range>
+			<key>0:0</key>
+			<value/>
+		</range>
+	</measure>
+	<measure id="138" descr="TCK">
+		<range>
+			<key>0:10</key>
+			<value/>
+		</range>
+	</measure>
+	
+<measure id="66" descr="Val pat.:"><range><key>0:200</key><value>Valeur Normale</value></range><range><key>201:1000</key><value>Valeur Sup &#xE0; la Normale</value></range></measure><measure id="139" descr="ASLO"><range><key>Positif</key><value>Valeur Inf  ou &#xE8;gale &#xE0; 200ui/l</value></range><range><key>N&#xE9;gatif</key><value>Valeur Sup &#xE0; 200ui/l</value></range></measure><measure id="13" descr="CREAT"><range><key>6:13</key><value>Valeur Normale</value></range><range><key>0:5.99</key><value>Hypocr&#xE9;tin&#xE9;mie</value></range><range><key>13.01:1000</key><value>Hypercr&#xE9;atin&#xE9;mie</value></range></measure><measure id="6" descr="ALT/SGPT"><range><key>0:40</key><value/></range></measure><measure id="30" descr="AMYL"><range><key>0:115</key><value/></range></measure><measure id="16" descr="AST/SGOT"><range><key>0:37</key><value/></range></measure><measure id="130" descr="Bilirubine Indirecte"><range><key>0:2.7</key><value/></range></measure><measure id="70" descr="CRP"><range><key>0:0</key><value>CRP N&#xE9;gative</value></range><range><key>1:1000</key><value>CRP Positive</value></range></measure><measure id="10" descr="Ca++"><range><key>86:107</key><value/></range></measure><measure id="23" descr="CL"><range><key>98:106</key><value/></range></measure><measure id="25" descr="CHOL Total"><range><key>1.4:2.7</key><value/></range></measure><measure id="2" descr="WBC"/><measure id="33" descr="RBC"/><measure id="34" descr="HGB"/><measure id="36" descr="MCV"/><measure id="37" descr="MCH"/><measure id="38" descr="MCHC"/><measure id="39" descr="PLT"/><measure id="9" descr="Acide Urique"><range><key>30:60</key><value>Valeur Normale</value></range></measure><measure id="32" descr="Goutte Epaisse (GE)"><range><key>N&#xE9;gatif</key><value>N&#xE9;gatif</value></range><range><key>Positif</key><value>Para. Faible</value></range></measure></measures>
